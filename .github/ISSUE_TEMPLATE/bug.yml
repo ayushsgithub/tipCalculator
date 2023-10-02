@@ -27,6 +27,7 @@ body:
         - "No"
     validations:
       required: false
+    default: "No"
   - type: textarea
     id: extrainfo
     attributes:
