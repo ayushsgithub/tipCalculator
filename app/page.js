@@ -11,9 +11,9 @@ export default function Home() {
       <PanelLayout>
         <TipForm />
       </PanelLayout>
-      <footer className="bg-gradient-to-br from-cyan-500 to-blue-700 text-white mt-7 p-2 shadow-xl rounded-md">
+      {/* <footer className="bg-gradient-to-br from-cyan-500 to-blue-700 text-white mt-7 p-2 shadow-xl rounded-md">
         <Link href="https://github.com/ayushsgithub/tipCalculator" target='_blank'>Support 💖</Link>
-      </footer>
+      </footer> */}
     </main>
   )
 }
